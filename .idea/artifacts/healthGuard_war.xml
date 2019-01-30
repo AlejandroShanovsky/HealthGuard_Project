@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="healthGuard:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="HealthGuardApp.war">
+      <element id="artifact" artifact-name="healthGuard:war exploded" />
+    </root>
+  </artifact>
+</component>
